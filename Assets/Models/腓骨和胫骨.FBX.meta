@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 4439c83f78c29c1489f52351874a6f24
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder003
+    100006: Cylinder004
+    100008: Cylinder005
+    100010: Skeletal_Fibula
+    100012: Skeletal_Tibia
+    100014: "\u5185\u9AC1"
+    100016: "\u5916\u9AC1"
+    100018: "\u80EB\u9AA8\u7C97\u9686"
+    100020: //RootNode
+    100022: "\u8153\u9AA8\u9888"
+    100024: "\u9AC1\u95F4\u9686\u8D77"
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder003
+    400006: Cylinder004
+    400008: Cylinder005
+    400010: Skeletal_Fibula
+    400012: Skeletal_Tibia
+    400014: "\u5185\u9AC1"
+    400016: "\u5916\u9AC1"
+    400018: "\u80EB\u9AA8\u7C97\u9686"
+    400020: //RootNode
+    400022: "\u8153\u9AA8\u9888"
+    400024: "\u9AC1\u95F4\u9686\u8D77"
+    2100000: 'Material #25'
+    2100002: No Name
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder003
+    2300006: Cylinder004
+    2300008: Cylinder005
+    2300010: Skeletal_Fibula
+    2300012: Skeletal_Tibia
+    2300014: "\u5185\u9AC1"
+    2300016: "\u5916\u9AC1"
+    2300018: "\u80EB\u9AA8\u7C97\u9686"
+    2300020: "\u8153\u9AA8\u9888"
+    2300022: "\u9AC1\u95F4\u9686\u8D77"
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder003
+    3300006: Cylinder004
+    3300008: Cylinder005
+    3300010: Skeletal_Fibula
+    3300012: Skeletal_Tibia
+    3300014: "\u5185\u9AC1"
+    3300016: "\u5916\u9AC1"
+    3300018: "\u80EB\u9AA8\u7C97\u9686"
+    3300020: "\u8153\u9AA8\u9888"
+    3300022: "\u9AC1\u95F4\u9686\u8D77"
+    4300000: Skeletal_Fibula
+    4300002: Skeletal_Tibia
+    4300004: Cylinder001
+    4300006: Cylinder002
+    4300008: Cylinder003
+    4300010: Cylinder004
+    4300012: Cylinder005
+    4300014: "\u8153\u9AA8\u9888"
+    4300016: "\u5916\u9AC1"
+    4300018: "\u9AC1\u95F4\u9686\u8D77"
+    4300020: "\u80EB\u9AA8\u7C97\u9686"
+    4300022: "\u5185\u9AC1"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
