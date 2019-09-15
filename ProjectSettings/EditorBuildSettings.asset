@@ -15,45 +15,51 @@ EditorBuildSettings:
     path: Assets/Scenes/regist.unity
     guid: c7bb87bfe4801d141958389e9a1a4ad4
   - enabled: 1
-    path: Assets/Scenes/02.unity
+    path: "Assets/Scenes/\u690E\u9AA8.unity"
     guid: 329109057f46f264fb86e9121b750f9f
   - enabled: 1
-    path: Assets/Scenes/03.unity
+    path: "Assets/Scenes/\u80F8\u5ED3.unity"
     guid: 4715f1e52b1ed534ab32240475ce837a
   - enabled: 1
-    path: Assets/Scenes/04.unity
+    path: "Assets/Scenes/\u9885\u9AA8.unity"
     guid: ee8217076c81b12439fd0ae0caea62ff
   - enabled: 1
-    path: Assets/Scenes/07.unity
+    path: "Assets/Scenes/\u9501\u9AA8.unity"
     guid: 1fb2c1db83383784b8e7ce4a1b260fd1
   - enabled: 1
-    path: Assets/Scenes/08.unity
+    path: "Assets/Scenes/\u80A9\u80DB\u9AA8.unity"
     guid: 9ca179be1f45e4641ac67b6a4721b3c9
   - enabled: 1
-    path: Assets/Scenes/10.unity
+    path: "Assets/Scenes/\u5C3A\u9AA8\u548C\u6861\u9AA8.unity"
     guid: 564920e427d511f48bb6361787eae2e2
   - enabled: 1
-    path: Assets/Scenes/11.unity
+    path: "Assets/Scenes/\u80B1\u9AA8.unity"
     guid: cd00683a65b0b824eaa7b93df20d8aca
   - enabled: 1
-    path: Assets/Scenes/12.unity
+    path: "Assets/Scenes/\u638C\u9AA8.unity"
     guid: b64fe99375b5b484a96c4b297ac39226
   - enabled: 1
-    path: Assets/Scenes/14.unity
+    path: "Assets/Scenes/\u9ACB\u9AA8.unity"
     guid: 17a7e10d476361944a5280e0a7419e4a
   - enabled: 1
-    path: Assets/Scenes/16.unity
+    path: "Assets/Scenes/\u80A1\u9AA8.unity"
     guid: 54a57abf1e69f004d81c5329b20305bf
   - enabled: 1
-    path: Assets/Scenes/17.unity
+    path: "Assets/Scenes/\u8153\u9AA8\u548C\u80EB\u9AA8.unity"
     guid: ced9b3e7a5d1f7047828f8faa31d6e52
   - enabled: 1
-    path: Assets/Scenes/18.unity
+    path: "Assets/Scenes/\u811A\u638C\u9AA8.unity"
     guid: 0aedb12513030be49a9dc58a4a131d9d
   - enabled: 1
-    path: Assets/Scenes/19.unity
+    path: "Assets/Scenes/\u9ACC\u9AA8.unity"
     guid: 3f9edbad228b0a34d9037f6c56f00401
   - enabled: 1
     path: Assets/Scenes/introduce.unity
     guid: f7df33c151ce33d4792ced97117845c8
+  - enabled: 1
+    path: Assets/Scenes/shortcut.unity
+    guid: a5d98369bbe9ff143992a05aa42c5b1c
+  - enabled: 1
+    path: Assets/Scenes/forgetPassword.unity
+    guid: 1b923011393191544817eb644cb05404
   m_configObjects: {}

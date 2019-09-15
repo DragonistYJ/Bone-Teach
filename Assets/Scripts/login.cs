@@ -78,13 +78,15 @@ public class login : MonoBehaviour {
             WWWForm form = new WWWForm();
             form.AddField("username", username);
             form.AddField("password", password);
-            StartCoroutine(sendmsg("http://118.25.210.13:8080/BoneServlet/login", form));
+            //StartCoroutine(sendmsg("http://118.25.210.13:8080/BoneServlet/login", form));
+            SceneManager.LoadScene("menu");
         }
     }
 
 
     IEnumerator sendmsg(string url, WWWForm wForm)
     {
+
         WWW postData = new WWW(url, wForm);
 
         yield return postData;

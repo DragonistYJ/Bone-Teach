@@ -116,7 +116,7 @@ public class regist : MonoBehaviour,SMSSDKHandler {
                 WWWForm form = new WWWForm();
                 form.AddField("username", username);
                 form.AddField("password", password);
-                StartCoroutine(sendmsg("http://118.25.210.13:8080/BoneServlet/Regist", form));
+                StartCoroutine(sendmsg("http://118.25.210.13:8080/BoneServlet/regist", form));
             }    
         }
     }
